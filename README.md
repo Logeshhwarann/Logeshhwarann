@@ -1,14 +1,22 @@
-<h1 align="center">Hi 👋, I'm Logeshwaran</h1>
+<table>
+<tr>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=2000&color=7F5AF0&center=true&vCenter=true&width=450&lines=AI%2FML+Engineer" alt="Typing SVG" />
-  </a>
-</p>
+<td width="70%">
 
-<p align="center">
-  <strong>Artificial Intelligence • Machine Learning • MLOps • LLM</strong>
-</p>
+<h1>Hi 👋, I'm Logeshwaran</h1>
+
+<b>Artificial Intelligence • Machine Learning • MLOps • LLM</b>
+
+</td>
+
+<td width="30%" align="right">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="150">
+
+</td>
+
+</tr>
+</table>
 
 ---
 

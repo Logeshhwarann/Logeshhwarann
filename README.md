@@ -1,20 +1,23 @@
 <table align="center">
 <tr>
-<td align="center">
+<td width="80"></td>
 
+<td align="center">
 <h1>
 Hi 👋, I'm Logeshwaran
-<img src="https://media.tenor.com/E-L7yzvFHwkAAAAj/dancing-cat.gif" width="35px" alt="Dancing Cat"/>
 </h1>
 
 <p>
-<strong>Artificial Intelligence • Machine Learning • MLOps • LLM</strong>
+<b>Artificial Intelligence • Machine Learning • MLOps • LLM</b>
 </p>
-
 </td>
+
+<td width="80" align="left">
+<img src="https://media.tenor.com/E-L7yzvFHwkAAAAj/dancing-cat.gif" width="35">
+</td>
+
 </tr>
 </table>
-
 
 ## 👨‍💻 About Me
 

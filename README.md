@@ -101,3 +101,5 @@ Beyond AI, I continuously improve my **Data Structures & Algorithms**, explore m
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&section=header"/>

@@ -62,20 +62,37 @@ Beyond AI, I continuously improve my **Data Structures & Algorithms**, explore m
 
 
 ---
+---
 
 <h2 align="center">📬 Connect With Me</h2>
 
-<p align="center">
-  <a href="mailto:logesshhhh@gmail.com" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
-  </a>
+<table align="center">
+<tr>
+<td align="center">
+<a href="mailto:logesshhhh@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55">
+</a>
+</td>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="35"></td>
 
-  <a href="https://www.linkedin.com/in/alogeshwaran/" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
-  </a>
+<td align="center">
+<a href="https://www.linkedin.com/in/alogeshwaran/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55">
+</a>
+</td>
 
+<td width="35"></td>
+
+<td align="center">
+<a href="https://leetcode.com/u/logesh02/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="55">
+</a>
+</td>
+</tr>
+</table>
+
+---
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/logesh02/" style="text-decoration:none;">

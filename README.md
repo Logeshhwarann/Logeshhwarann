@@ -9,6 +9,16 @@
   </a>
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+I'm **Logeshwaran**, a third-year **Electronics and Communication Engineering** student with a strong passion for **Artificial Intelligence**, **Machine Learning**, and **MLOps**.
+
+Currently, I'm focused on building real-world AI applications, learning LLM technologies, deploying machine learning models, and strengthening my problem-solving skills through Data Structures and Algorithms. I enjoy exploring modern AI tools and continuously improving my software engineering skills.
+
+---
+
 
 "🛠️ Tech Stack
 

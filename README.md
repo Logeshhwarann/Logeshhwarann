@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Artificial Intelligence • Machine Learning • MLOps</strong>
+  <strong>Artificial Intelligence • Machine Learning • MLOps • LLM</strong>
 </p>
 
 

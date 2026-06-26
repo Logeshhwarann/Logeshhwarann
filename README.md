@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Logeshwaran
+  Hi 👋, I'm Logeshwaran A
   <img src="https://media.tenor.com/E-L7yzvFHwkAAAAj/dancing-cat.gif" width="35" alt="Dancing Cat"/>
 </h1>
 

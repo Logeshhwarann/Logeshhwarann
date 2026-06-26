@@ -10,10 +10,6 @@
   <strong>Artificial Intelligence • Machine Learning • MLOps</strong>
 </p>
 
-<p align="center">
-  Building intelligent systems, deploying scalable ML solutions, and continuously learning modern AI technologies.
-</p>
----
 
 ## 👨‍💻 About Me
 

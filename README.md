@@ -10,7 +10,7 @@
 </p>
 
 
-<h2🛠️ Tech Stack</h2>
+"🛠️ Tech Stack
 
 <table align="center">
 <tr>

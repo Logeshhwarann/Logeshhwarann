@@ -9,10 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  🤖 <b>Artificial Intelligence</b> • 🧠 <b>Machine Learning</b> • ⚙️ <b>MLOps</b>
-</p>
-
 
 ## 🛠️ Tech Stack
 

@@ -53,22 +53,24 @@ Beyond AI, I continuously improve my **Data Structures & Algorithms**, explore m
 </table>
 
 
-## 📬 Connect With Me
+---
+
+
+<h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  <a href="mailto:logesshhhh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alogeshwaran/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://skillicons.dev/icons?i=vercel" width="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_INSTAGRAM">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  &nbsp;
+  <a href="https://leetcode.com/u/logesh02/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
+
+---
+

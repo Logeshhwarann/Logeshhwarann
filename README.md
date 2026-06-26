@@ -10,6 +10,7 @@
   <strong>Artificial Intelligence • Machine Learning • MLOps • LLM</strong>
 </p>
 
+---
 
 ## 👨‍💻 About Me
 

@@ -1,23 +1,22 @@
-<table align="center">
-<tr>
-<td width="80"></td>
-
-<td align="center">
-<h1>
-Hi 👋, I'm Logeshwaran
+<h1 align="center">
+  Hi 👋, I'm Logeshwaran
+  <img src="https://media.tenor.com/E-L7yzvFHwkAAAAj/dancing-cat.gif" width="35" alt="Dancing Cat"/>
 </h1>
 
-<p>
-<b>Artificial Intelligence • Machine Learning • MLOps • LLM</b>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1500&color=7F5AF0&center=true&vCenter=true&width=450&lines=AI%2FML+Engineer"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
-</td>
 
-<td width="80" align="left">
-<img src="https://media.tenor.com/E-L7yzvFHwkAAAAj/dancing-cat.gif" width="35">
-</td>
+<p align="center">
+  <strong>Artificial Intelligence • Machine Learning • MLOps • LLM</strong>
+</p>
 
-</tr>
-</table>
+
 
 ## 👨‍💻 About Me
 

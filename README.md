@@ -12,6 +12,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="120">
+</p>
+
+
 ## 👨‍💻 About Me
 
 I'm **Logeshwaran**, a pre final-year **Electronics and Communication Engineering** student with a growing passion for **Artificial Intelligence**, **Machine Learning**, and **MLOps**.

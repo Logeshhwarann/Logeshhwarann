@@ -17,15 +17,23 @@
   Passionate about building intelligent applications, deploying scalable ML systems, and exploring Generative AI & LLMs.
 </p>
 
---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,aws,vscode,linux,npm&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,java,c,git,github" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=blender,unity,vercel,postman,vscode,npm" />
+
 </p>
 
---
 
 ## 📬 Connect With Me
 

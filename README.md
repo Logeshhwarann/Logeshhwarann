@@ -13,10 +13,6 @@
   🤖 <b>Artificial Intelligence</b> • 🧠 <b>Machine Learning</b> • ⚙️ <b>MLOps</b>
 </p>
 
-<p align="center">
-  Passionate about building intelligent applications, deploying scalable ML systems, and exploring Generative AI & LLMs.
-</p>
-
 
 ## 🛠️ Tech Stack
 

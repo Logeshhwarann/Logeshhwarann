@@ -1,139 +1,172 @@
-<h1 align="center">Hi 👋, I'm Logeshwaran</h1>
-
-<h3 align="center">
-AI • MLOps • Full Stack Developer • LLM Enthusiast
-</h3>
+<h1 align="center">
+Hi 👋 I'm Logeshwaran
+</h1>
 
 <p align="center">
-Building AI-powered applications and scalable backend systems.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+Developer;MERN+Developer;MLOps+Learner;Problem+Solver)](https://git.io/typing-svg)
+
+</p>
+
+<p align="center">
+AI • MLOps • Full Stack • LLM Enthusiast
 </p>
 
 ---
 
-## 🚀 About Me
+<table>
+<tr>
 
-- 🎓 Third Year B.E. Electronics & Communication Engineering Student
-- 💻 Passionate about AI, LLMs, MLOps and Full Stack Development
-- 🌱 Currently learning **LangChain, RAG, Kubernetes and Advanced MLOps**
-- 🧠 Exploring Agentic AI, Generative AI and Cloud Deployment
-- 🚀 Building real-world AI products using FastAPI, Docker and AWS
-- 📫 Reach me: **your-email@gmail.com**
+<td width="60%">
+
+## 👨‍💻 About Me
+
+- 🎓 Third Year B.E. ECE Student
+
+- 💜 Passionate about AI, LLMs and Full Stack Development
+
+- 🌱 Currently learning
+
+  - LangChain
+  - Kubernetes
+  - RAG
+  - MLOps
+
+- 🚀 Building AI applications using
+
+  - FastAPI
+  - Docker
+  - AWS
+  - Gemini API
+
+- 💻 Love solving DSA
+
+- ⚡ Fun Fact
+
+  > I turn coffee ☕ into code.
+
+</td>
+
+<td>
+
+<img src="https://media.tenor.com/QrgebryMgeAAAAAi/cat-white.gif" width="230"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,aws,vscode,linux,npm&theme=dark"/>
 
-### Frontend
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+---
 
-### Backend
+# 📬 Connect With Me
 
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+<p align="center">
 
-### Database
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+&nbsp;&nbsp;
 
-### AI / ML
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+</a>
 
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+&nbsp;&nbsp;
 
-### Cloud & DevOps
+<a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=vercel" width="40"/>
+</a>
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+&nbsp;&nbsp;
+
+<a href="YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+</a>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI Interview Assistant
+### 🤖 AI Interview Assistant
 
-- Detects DSA patterns automatically
-- Gives optimized approaches
-- Integrated with Google Gemini
-- Built using Python + Streamlit
+> Detects DSA patterns using Gemini.
 
 ---
 
-## 📄 AI OCR Invoice Extraction
+### 📄 AI OCR Invoice Extraction
 
-- Upload invoice PDFs/images
-- Extract structured data using Gemini
-- FastAPI Backend
-- React Frontend
+> Invoice parser using FastAPI + React + Gemini.
 
 ---
 
-## 🛒 SmartBuy
+### 🛒 SmartBuy
 
-MERN Stack Price Comparison Website
-
-- Product Search
-- JWT Authentication
-- Search History
-- Purchase History
-- MongoDB Database
+> MERN Price Comparison Platform.
 
 ---
 
-## 🚗 Accident Severity Prediction
+### 🚗 Accident Severity Prediction
 
-- Machine Learning Project
-- Flask Deployment
-- Dockerized
-- AWS EC2 Deployment
-- Random Forest & XGBoost Models
+> Machine Learning + Flask + Docker + AWS.
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-![](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
----
+</p>
 
-## 📈 Contribution Graph
+<p align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4)
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🐶 Coding Buddy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+<p align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/dog-computer.gif" width="350"/>
 
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+</p>
 
 ---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://media.tenor.com/QrgebryMgeAAAAAi/cat-white.gif" width="80"/>
+
+</p>
 
 <p align="center">
 

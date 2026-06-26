@@ -103,3 +103,145 @@ Beyond AI, I continuously improve my **Data Structures & Algorithms**, explore m
 
 ---
 
+
+<h1 align="center">🎨 Typing Font Showcase</h1>
+
+<br>
+
+<h2>1. Poppins ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>2. Fira Code ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>3. JetBrains Mono ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>4. Roboto Mono ⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>5. Space Mono ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>6. Ubuntu ⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>7. Righteous ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>8. Orbitron ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>9. Audiowide ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>10. Montserrat ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>11. Oswald ⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>12. Kanit ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>13. Exo 2 ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>14. Chakra Petch ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>15. Bungee ⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>16. Bebas Neue ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=36&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>17. Josefin Sans ⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>18. Play ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Play&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>19. IBM Plex Mono ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>
+
+---
+
+<h2>20. Source Code Pro ⭐⭐⭐⭐⭐</h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=32&pause=1000&color=7F5AF0&width=500&lines=AI%2FML+Engineer">
+</p>

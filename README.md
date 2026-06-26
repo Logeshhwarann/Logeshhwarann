@@ -18,9 +18,6 @@
 </tr>
 </table>
 
-
-## 👨‍💻 About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="35">
-
 ---
 
 <p align="center">

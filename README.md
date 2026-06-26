@@ -11,11 +11,6 @@
   <strong>Artificial Intelligence • Machine Learning • MLOps • LLM</strong>
 </p>
 
-<p align="center">
-  <strong>Artificial Intelligence • Machine Learning • MLOps • LLM</strong>
-</p>
-
-
 
 ## 👨‍💻 About Me
 

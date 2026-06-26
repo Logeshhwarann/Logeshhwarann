@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Logeshwaran</h1>
+<table align="center">
+<tr>
+<td align="center">
 
-<p align="center">
-  <img src="https://media.tenor.com/ULt1QoO_tc0AAAAj/cat-vibe-vibe-cat.gif" width="45" alt="Vibe Cat"/>
+<h1>
+Hi 👋, I'm Logeshwaran
+<img src="https://media.tenor.com/E-L7yzvFHwkAAAAj/dancing-cat.gif" width="35px" alt="Dancing Cat"/>
+</h1>
+
+<p>
+<strong>Artificial Intelligence • Machine Learning • MLOps • LLM</strong>
 </p>
 
-<p align="center">
-  <strong>Artificial Intelligence • Machine Learning • MLOps • LLM</strong>
-</p>
-
----
+</td>
+</tr>
+</table>
 
 
 ## 👨‍💻 About Me

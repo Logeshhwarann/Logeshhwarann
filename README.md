@@ -2,13 +2,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Enthusiast;MLOps+Learner;LLM+Developer;Problem+Solver"
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=2000&color=7F5AF0&center=true&vCenter=true&width=450&lines=AI%2FML+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  <strong>Artificial Intelligence • Machine Learning • MLOps</strong>
+</p>
+
+<p align="center">
+  Building intelligent systems, deploying scalable ML solutions, and continuously learning modern AI technologies.
+</p>
 ---
 
 ## 👨‍💻 About Me

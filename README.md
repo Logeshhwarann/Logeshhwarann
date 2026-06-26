@@ -61,21 +61,22 @@ Beyond AI, I continuously improve my **Data Structures & Algorithms**, explore m
 <h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:logesshhhh@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+  <a href="mailto:logesshhhh@gmail.com" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alogeshwaran/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/alogeshwaran/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/logesh02/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45" alt="LeetCode"/>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/logesh02/" style="text-decoration:none;">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50" alt="LeetCode"/>
   </a>
 </p>
 
 ---
-
-
-
 

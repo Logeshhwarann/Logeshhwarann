@@ -10,10 +10,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="120">
-</p>
-
 
 ## 👨‍💻 About Me
 

@@ -20,19 +20,25 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-
+<table align="center">
+<tr>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react" />
+</td>
+</tr>
 
-<br><br>
-
+<tr>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,docker" />
+</td>
+</tr>
 
-<br><br>
-
+<tr>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=aws,vscode,linux,npm,postman" />
-
-</p>
+</td>
+</tr>
+</table>
 
 
 ## 📬 Connect With Me

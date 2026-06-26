@@ -1,22 +1,12 @@
-<table>
-<tr>
+<h1 align="center">Hi 👋, I'm Logeshwaran</h1>
 
-<td width="70%">
+<p align="center">
+  <img src="https://media.tenor.com/ULt1QoO_tc0AAAAj/cat-vibe-vibe-cat.gif" width="45" alt="Vibe Cat"/>
+</p>
 
-<h1>Hi 👋, I'm Logeshwaran</h1>
-
-<b>Artificial Intelligence • Machine Learning • MLOps • LLM</b>
-
-</td>
-
-<td width="30%" align="right">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="150">
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <strong>Artificial Intelligence • Machine Learning • MLOps • LLM</strong>
+</p>
 
 ---
 

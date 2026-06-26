@@ -22,15 +22,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,java,c,git,github" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,docker" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=blender,unity,vercel,postman,vscode,npm" />
+<img src="https://skillicons.dev/icons?i=aws,vscode,linux,npm,postman" />
 
 </p>
 

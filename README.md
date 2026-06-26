@@ -13,9 +13,18 @@
 
 ## 👨‍💻 About Me
 
-I'm **Logeshwaran**, a third-year **Electronics and Communication Engineering** student with a strong passion for **Artificial Intelligence**, **Machine Learning**, and **MLOps**.
+I'm **Logeshwaran**, a third-year **Electronics and Communication Engineering** student with a growing passion for **Artificial Intelligence**, **Machine Learning**, and **MLOps**.
 
-Currently, I'm focused on building real-world AI applications, learning LLM technologies, deploying machine learning models, and strengthening my problem-solving skills through Data Structures and Algorithms. I enjoy exploring modern AI tools and continuously improving my software engineering skills.
+My interests lie in designing intelligent systems that solve real-world problems—from building AI-powered applications and working with Large Language Models (LLMs) to deploying scalable machine learning pipelines.
+
+Beyond AI, I continuously improve my **Data Structures & Algorithms**, explore modern software engineering practices, and enjoy turning ideas into practical, impactful projects.
+
+**Currently Exploring**
+- Artificial Intelligence & Machine Learning
+- Large Language Models (LLMs)
+- MLOps & Cloud Technologies
+- Data Structures & Algorithms
+- End-to-End AI Application Development
 
 ---
 
